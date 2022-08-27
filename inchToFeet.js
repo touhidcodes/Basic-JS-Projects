@@ -6,3 +6,6 @@ function inchToFeet(inch) {
 
 var firstFeet = inchToFeet(500);
 console.log(firstFeet);
+
+var seconfFeet = inchToFeet(200);
+console.log(seconfFeet);
