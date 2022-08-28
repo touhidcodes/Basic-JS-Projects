@@ -1,4 +1,4 @@
-//Factorial Number
+//Factorial Number using For loop
 function factorial(n) {
   var factorial = 1;
   for (var i = 1; i <= n; i++) {
