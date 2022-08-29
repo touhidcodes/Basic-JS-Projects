@@ -1,4 +1,4 @@
-// Fiboncci Number
+// Fiboncci Iterative
 function fibonacci(n) {
   var fibo = [0, 1];
   for (var i = 2; i <= n; i++) {

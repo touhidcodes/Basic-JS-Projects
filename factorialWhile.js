@@ -1,4 +1,4 @@
-//Factorial number using While loop
+// Factorial number using While loop
 function factorial(n) {
   var i = 1;
   var factorial = 1;
